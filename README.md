@@ -1,7 +1,5 @@
 
 <div style = "text-align : left;">
-
-  
   <h2 style = "border-bottom : 1px;">🛠️</h2>
   <br>
   <div style="margin: ; text-align: left;" "text-align: left;">
@@ -14,7 +12,6 @@
             
   </div>
   <br>
-
   <div>
     <h2 style = "border-bottom : 1px;">🧑‍💻</h2>
     <br>
@@ -23,8 +20,6 @@
     <a href=https://www.instagram.com/x0gu.s_/><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/x0gu.s_/"></a>
     
   </div>
-  
-  
   <div>
     <h2 style ="border-bottom : 1px ;"></h2>
     <br>
@@ -36,6 +31,5 @@
     height="300"
   />
   </a>
-    
   </div>
 </div>
