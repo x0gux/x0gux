@@ -2,7 +2,7 @@
 <div style = "text-align : left;">
   <h2 style = "border-bottom : 1px;">🛠️</h2>
   <br>
-  <div style="margin: ; text-align: left;" "text-align: left;">
+  <div style="margin: 0 ; text-align: left;" "text-align: left;">
           <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
           <img src="https://img.shields.io/badge/next-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
           <img src="https://img.shields.io/badge/Vue-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
@@ -20,16 +20,15 @@
     <a href=https://www.instagram.com/x0gu.s_/><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/x0gu.s_/"></a>
     
   </div>
-  <div>
-    <h2 style ="border-bottom : 1px ;"></h2>
-    <br>
-
+<div align="m">
+  <h2 style="border-bottom: 1px solid #eaecef;"></h2>
+  <br>
+  <div align="center">
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=taehyun00&utm_content=farm">
-  <img
-    src="https://render.gitanimals.org/farms/taehyun00"
-    width="600"
-    height="300"
-  />
+    <img src="https://render.gitanimals.org/farms/taehyun00" width="55%" align="middle" />
   </a>
-  </div>
+  <img src="./profile-3d-contrib/profile-season-animate.svg" width="40%" align="middle" />
+</div>
+</div>
+
 </div>
