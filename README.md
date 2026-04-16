@@ -24,10 +24,7 @@
   <h2 style="border-bottom: 1px solid #eaecef;"></h2>
   <br>
   <div align="center">
-  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=taehyun00&utm_content=farm">
-    <img src="https://render.gitanimals.org/farms/taehyun00" width="55%" align="middle" />
-  </a>
-  <img src="./profile-3d-contrib/profile-season-animate.svg" width="40%" align="middle" />
+  <img src="./profile-3d-contrib/profile-season-animate.svg" width="100%" align="middle" />
 </div>
 </div>
 
